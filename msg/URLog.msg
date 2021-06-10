@@ -1,0 +1,10 @@
+std_msgs/Header header
+geometry_msgs/Transform actual_tcp_pose
+geometry_msgs/Transform target_tcp_pose
+geometry_msgs/Twist actual_tcp_speed
+geometry_msgs/Twist target_tcp_speed
+string[] joint_names
+float64[] actual_joint_positions
+float64[] target_joint_positions
+float64[] actual_joint_velocities
+float64[] target_joint_velocities
