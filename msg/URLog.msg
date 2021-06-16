@@ -1,4 +1,5 @@
 std_msgs/Header header
+float64 ur_timestamp
 geometry_msgs/Transform actual_tcp_pose
 geometry_msgs/Transform target_tcp_pose
 geometry_msgs/Twist actual_tcp_speed
