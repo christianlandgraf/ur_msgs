@@ -9,3 +9,5 @@ float64[] actual_joint_positions
 float64[] target_joint_positions
 float64[] actual_joint_velocities
 float64[] target_joint_velocities
+float64 target_tcp_speed_linear
+float64 actual_tcp_speed_linear
